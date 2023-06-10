@@ -2,15 +2,15 @@ html, body{
     font-family: 'Poppins', sans-serif;
 }
 
-.buttons{
+.button{
     padding: 20px 25px;
     margin: 5px 5px;
     border: 1px solid;
-    border-radius: 100%;
+    border-radius: 100%; 
     cursor: pointer;
 } 
 
-.row1-buttons{
+.row1-button{
     padding: 20px 50px;
     margin: 5px 15px ;
     border: 1px solid;
